@@ -1,0 +1,13 @@
+user
+register user C:/file
+register user C:/user/file, C:/user/file1
+unregister user C:/file
+unregister user C:/user/file, C:/user/file1
+
+user1
+register user C:\\Users\\pc1\\Desktop\\New folder\\file1.txt
+
+user2
+register user2 C:\Users\pc1\Desktop\New folder\file2.txt
+register a C:\Test\test2.txt C:\Test\test.txt
+download a C:\Test\test2.txt C:\Test\btest.txt
